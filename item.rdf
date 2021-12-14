@@ -1,0 +1,216 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" 
+         xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+	     xmlns:dc="http://purl.org/dc/elements/1.1/"> 
+    
+    <rdf:Description rdf:about="https://www.zalora.co.id/">
+        <dc:know rdf:resource="https://www.zalora.co.id/en-ji-by-palomino-sunmi-sling-bags-multi-2592703.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/phillipe-jourdan-wilona-totes-brown-2218272.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/zorra-raline-crossbody-bag-by-zorra-tas-selempang-wanita-kecil-tas-croco-mini-hitam-free-card-wallet-black-3001644.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/les-catino-new-york-soho-cb-solid-red-2567156.html" />        
+	    <dc:know rdf:resource="https://www.zalora.co.id/tocco-toscano-formal-bag-multi-2444230.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/phillipe-jourdan-velvet-sling-bags-blue-2719855.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/samsonite-samsonite-karissa-2-0-shopping-bag-m-lilac-grey-grey-2935502.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/en-ji-by-palomino-yiseo-sling-bags-green-2971463.html" />
+	    <dc:know rdf:resource="https://www.zalora.co.id/phillipe-jourdan-belva-sling-bags-red-2218285.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/zorra-tifa-tas-selempang-bahu-rose-gold-by-zorra-tas-mini-bag-korean-style-gold-2941847.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/les-catino-trudy-bucket-crossbody-s-grey-3149434.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/tocco-toscano-macon-leather-hand-bag-tas-wanita-brown-2525514.html" />
+	   <dc:know rdf:resource="https://www.zalora.co.id/phillipe-jourdan-zora-sling-bags-black-2537074.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/samsonite-lipault-lady-plume-tote-bag-s-fl-light-plum-purple-2293114.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/en-ji-by-palomino-halmi-sling-bags-multi-2894886.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/phillipe-jourdan-aurora-sling-bags-blue-2218271.html" />
+    </rdf:Description>
+	
+    <rdf:Description rdf:about = "https://www.zalora.co.id/en-ji-by-palomino-sunmi-sling-bags-multi-2592703.html">
+        <dc:product> Sunmi Sling Bags </dc:product>
+        <dc:img> https://dynamic.zacdn.com/Hft1mYcjHlPSl5LeXyDBUyKzsfQ=/fit-in/472x690/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/en-ji-by-palomino-9083-3072952-2.jpg </dc:img>
+        <dc:hasMerk> EN-JI by Palomino </dc:hasMerk>
+        <dc:hasSize> 24cm x 7cm x 14cm </dc:hasSize>
+        <dc:ket> Sling bag bermotif tartan dengan kesan preppy chic, Warna khaki, Material PU leather, Top flap dengan kancing twist lock, 1 kantong dalam dengan resleting, Non adjustable dan detachable strap, Panjang x Tinggi x Lebar: 24cm x 7cm x 14cm </dc:ket>
+        <dc:hasColor> Khaki </dc:hasColor>
+        <dc:price> Rp 342.650 </dc:price>
+        <dc:review> 4.9 </dc:review>
+	    <dc:identifier> tas1.php </dc:identifier>
+    </rdf:Description> 
+
+    <rdf:Description rdf:about = "https://www.zalora.co.id/phillipe-jourdan-wilona-totes-brown-2218272.html">
+        <dc:product> Wilona Totes </dc:product>
+        <dc:img> https://dynamic.zacdn.com/SYgjxxHK71cTPx2eN7yV6JotTNM=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/phillipe-jourdan-4794-2728122-2.jpg </dc:img>
+        <dc:hasMerk> Phillipe Jourdan </dc:hasMerk>
+        <dc:hasSize> 29 cm x 11.5 cm x 31 cm </dc:hasSize>
+        <dc:ket> Tote bag bernuansa klasik dengan detail logo, Warna coklat, Material kanvas, Twin handle grab, 2 kantong slot samping, Kompartemen utama dengan resleting, 1 kantong dalam dengan resleting, 1 kantong slot dalam, Adjustable dan detachable strap </dc:ket>
+        <dc:hasColor> Brown </dc:hasColor>
+        <dc:price> Rp 324.750 </dc:price>
+        <dc:review> 5.0 </dc:review>
+	    <dc:identifier> tas2.php </dc:identifier>
+    </rdf:Description> 
+
+    <rdf:Description rdf:about = "https://www.zalora.co.id/zorra-raline-crossbody-bag-by-zorra-tas-selempang-wanita-kecil-tas-croco-mini-hitam-free-card-wallet-black-3001644.html">
+        <dc:product> Raline Crossbody Bag by ZORRA Tas Selempang Wanita Kecil Tas Croco Mini Hitam Free Card Wallet </dc:product>
+        <dc:img> https://dynamic.zacdn.com/g3gVsVF3w7oKZQNkhU4t9Yhcp1k=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/zorra-7444-4461003-2.jpg </dc:img>
+        <dc:hasMerk> ZORRA </dc:hasMerk>
+        <dc:hasSize> 19 x 5 x 12 cm </dc:hasSize>
+        <dc:ket> Tas Mini Cantik Kekinian untuk customer ZORRA yang tampil trendy, keren, dan kekinian. Material tas dari bahan kulit PU Leather Croco yang mewah dan elegan. Tampilan rantai berwarna gold yang dipadukan dengan anyaman PU Leather menambah kemewahan tas. Untuk penutup nya ada kancing + zipper (retsleting) untuk extra safety. Free hand Card Wallet 6 Slot + Slot untuk uang </dc:ket>
+        <dc:hasColor> Black </dc:hasColor>
+        <dc:price> Rp 172.500 </dc:price>
+        <dc:review> 5.0 </dc:review>
+	    <dc:identifier> tas3.php </dc:identifier>
+     </rdf:Description> 
+
+    <rdf:Description rdf:about = "https://www.zalora.co.id/les-catino-new-york-soho-cb-solid-red-2567156.html">
+        <dc:product> New York Soho Cb Solid </dc:product>
+        <dc:img> https://dynamic.zacdn.com/FBA75qQFCaZNsx07ptUjd50i5nE=/fit-in/236x345/filters:quality(90)/https://static-id.zacdn.com/overlay/Transparent_Overlay.png </dc:img>
+        <dc:hasMerk> Les Catino </dc:hasMerk>
+        <dc:hasSize> 22 cm x 9 cm x 21 cm </dc:hasSize>
+        <dc:ket> Tote bag untuk tampilan yang elegan saat ke kantor, Warna merah, Material kulit sintetis, Kompartemen utama dengan resleting, 2 kantong dalam dengan resleting, Single carry handle, Detachable, adjustable strap, Panjang x Lebar x Tinggi: 21cm x 9cm x 22cm </dc:ket>
+        <dc:hasColor> True Red </dc:hasColor>
+        <dc:price> Rp 259.000 </dc:price>
+        <dc:review> 4.9 </dc:review>
+	    <dc:identifier> tas4.php </dc:identifier>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about = "https://www.zalora.co.id/tocco-toscano-formal-bag-multi-2444230.html">
+        <dc:product> Formal Bag </dc:product>
+        <dc:img> https://dynamic.zacdn.com/8N0hHEyEZ3LlDMsMCR8DfJLsB0E=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/tocco-toscano-1712-0324442-2.jpg </dc:img>
+        <dc:hasMerk> Tocco Toscano </dc:hasMerk>
+        <dc:hasSize> 30 cm x 13 cm x 32 cm </dc:hasSize>
+        <dc:ket> Shoulder bag bergaya klasik dengan detail monogram print, Warna cokelat, Material genuine leather, 1 kantong belakang dengan resleting, Kompartemen utama dengan resleting, 1 kantong dalam dengan resleting, Gadget sleeve, Non detachable, adjustable strap </dc:ket>
+        <dc:hasColor> Camel </dc:hasColor>
+        <dc:price> Rp 804.650 </dc:price>
+        <dc:review> 5.0 </dc:review>
+	    <dc:identifier> tas5.php </dc:identifier>
+    </rdf:Description>  
+
+    <rdf:Description rdf:about = "https://www.zalora.co.id/phillipe-jourdan-velvet-sling-bags-blue-2719855.html">
+        <dc:product> Velvet Sling Bags </dc:product>
+        <dc:img> https://dynamic.zacdn.com/50xm0jG82eJpqoZd2A1Bs6QW4Z4=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/phillipe-jourdan-7190-5589172-2.jpg </dc:img>
+        <dc:hasMerk> Phillipe Jourdan </dc:hasMerk>            
+        <dc:hasSize> 17 cm x 9 cm x 24 cm </dc:hasSize>
+        <dc:ket>  Sling bag bergaya retro detail statementable metallic logo, Warna biru, Material kanvas, 1 kompartemen utama dengan resleting, 1 kantong dalam dengan resleting, 1 kantong belakang dengan resleting, Top handle, Adjustable strap, Panjang x Lebar x Tinggi: 24cm x 9cm x 17cm, Panjang strap: 125cm </dc:ket>
+        <dc:hasColor> Blue </dc:hasColor>
+        <dc:price> Rp 299.750 </dc:price>
+        <dc:review> 5.0 </dc:review>
+	    <dc:identifier> tas6.php </dc:identifier>
+    </rdf:Description> 
+
+    <rdf:Description rdf:about = "https://www.zalora.co.id/samsonite-samsonite-karissa-2-0-shopping-bag-m-lilac-grey-grey-2935502.html">
+        <dc:product> Samsonite Karissa 2.0 Shopping Bag M - Lilac Grey </dc:product>
+        <dc:img> https://dynamic.zacdn.com/6ft6SA3VaxMGpjP3nIG0oIghLXg=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/samsonite-5095-2055392-2.jpg </dc:img>
+        <dc:hasMerk> Samsonite </dc:hasMerk>
+        <dc:hasSize> 41.5 x 17 x 29 CM </dc:hasSize>
+        <dc:ket>  Material : Nylon + Polyurethane  trimming, Waranty : 2 Year, Dimensions : 41.5 x 17 x 29 CM, Weight : 0.69 KG </dc:ket>
+        <dc:hasColor> Lilac Grey </dc:hasColor>
+        <dc:price> Rp 1.700.000 </dc:price>
+        <dc:review> 5.0 </dc:review>
+	    <dc:identifier> tas7.php </dc:identifier>
+    </rdf:Description> 
+
+    <rdf:Description rdf:about = "https://www.zalora.co.id/en-ji-by-palomino-yiseo-sling-bags-green-2971463.html">
+        <dc:product> YISEO Sling Bags </dc:product>
+        <dc:img> https://dynamic.zacdn.com/7F4z0XfIQwQIDZ-iq6DK7Le0jK8=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/en-ji-by-palomino-7490-3641792-2.jpg </dc:img>
+        <dc:hasMerk> EN-JI by Palomino </dc:hasMerk>
+        <dc:hasSize> 6 cm x 12 cm x 21 cm </dc:hasSize>
+        <dc:ket> Sling bag untuk tampilan klasik yang stylish, Warna Greentea (hijau muda), Material PU leather, Top flap dengan kancing magnet, 1 kompartemen dengan resleting, 1 kantong dalam dengan resleting, Adjustable strap </dc:ket>
+        <dc:hasColor> Greentea </dc:hasColor>
+        <dc:price> Rp 299.000 </dc:price>
+        <dc:review> 5.0 </dc:review>
+	    <dc:identifier> tas8.php </dc:identifier>
+    </rdf:Description> 
+		
+    <rdf:Description rdf:about = "https://www.zalora.co.id/phillipe-jourdan-belva-sling-bags-red-2218285.html">
+        <dc:product> Belva Sling Bags </dc:product>
+        <dc:img> https://dynamic.zacdn.com/SKY-Z_0d8s9A_tx_iKH8NVR5kSw=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/phillipe-jourdan-4891-5828122-2.jpg </dc:img>
+        <dc:hasMerk> Phillipe Jourdan </dc:hasMerk>
+        <dc:hasSize> 18cm x 11cm x 18cm </dc:hasSize>
+        <dc:ket> Sling bag desain multi kompartemen dengan detail strap kontras, Warna maroon, Material kanvas, 1 kantong depan dan belakang dengan resleting, 2 kompartemen utama dengan resleting, 1 kantong dalam dengan resleting, 1 kantong slot dalam, Two carry handle, Adjustable strap </dc:ket>
+        <dc:hasColor> Maroon </dc:hasColor>
+        <dc:price> Rp 299.750 </dc:price>
+        <dc:review> 5.0 </dc:review>
+	    <dc:identifier> tas9.php </dc:identifier>
+    </rdf:Description> 
+
+    <rdf:Description rdf:about = "https://www.zalora.co.id/zorra-tifa-tas-selempang-bahu-rose-gold-by-zorra-tas-mini-bag-korean-style-gold-2941847.html">
+        <dc:product> Tifa Tas Selempang Bahu (Rose Gold) by ZORRA Tas Mini Bag Korean Style </dc:product>
+        <dc:img> https://dynamic.zacdn.com/Ja9hSHW53XPZOdJTj-894Lw4hyE=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/zorra-8466-7481492-2.jpg </dc:img>
+        <dc:hasMerk> ZORRA </dc:hasMerk>
+        <dc:hasSize> 29 x 17 cm </dc:hasSize>
+        <dc:ket>  Tifa Tas Rempel Korean Style dari Zora Lamoda. Sling bag dengan detail rempel yang cocok kamu gunakan untuk meningkatkan penampilanmu. Tas detail Rempel salah satu jenis tas kekinian yang banyak dicari para fashionista lohhh. Tas Tifa ini paling cocok untuk dibawa jalan jalan ke mall,  ke cafe bareng teman, atau bahkan cocok sekali di bawa ke pesta loh. Material: Kulit Sintetik </dc:ket>
+        <dc:hasColor> Rose Gold </dc:hasColor>
+        <dc:price> Rp 119.900 </dc:price>
+        <dc:review> 4.9 </dc:review>
+	    <dc:identifier> tas10.php </dc:identifier>
+    </rdf:Description> 
+
+    <rdf:Description rdf:about = "https://www.zalora.co.id/les-catino-trudy-bucket-crossbody-s-grey-3149434.html">
+        <dc:product> Fluff Remix Women's Sandals </dc:product>
+        <dc:img> https://dynamic.zacdn.com/FBA75qQFCaZNsx07ptUjd50i5nE=/fit-in/236x345/filters:quality(90)/https://static-id.zacdn.com/overlay/Transparent_Overlay.png </dc:img>
+        <dc:hasMerk> Les Catino </dc:hasMerk>
+        <dc:hasSize> 12cm x 12cm x 18cm </dc:hasSize>
+        <dc:ket> Bucket bag desain laser-cut untuk statementable style, Warna Brindle (abu-abu kehijauan), Material PVC, Top carry handle, Kompartemen utama dengan resleting, Adjustable dan detachable strap </dc:ket>
+        <dc:hasColor> Brindle </dc:hasColor>
+        <dc:price> Rp 269.910 </dc:price>
+        <dc:review> 4.9 </dc:review>
+	    <dc:identifier> tas11.php </dc:identifier>
+    </rdf:Description> 
+
+    <rdf:Description rdf:about = "https://www.zalora.co.id/tocco-toscano-macon-leather-hand-bag-tas-wanita-brown-2525514.html">
+        <dc:product> Macon Leather Hand Bag Tas Wanita  </dc:product>
+        <dc:img> https://dynamic.zacdn.com/hbvnMgzqp7f0d-7Ypv42FFjTG9I=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/tocco-toscano-6746-4155252-2.jpg </dc:img>
+        <dc:hasMerk> Tocco Toscano </dc:hasMerk>
+        <dc:hasSize> 37 </dc:hasSize>
+        <dc:ket> Solid shade strappy sandals, Polyurethane upper, Polyurethane insole, Rubber outsole, Slip-on style</dc:ket>
+        <dc:hasColor> Beige </dc:hasColor>
+        <dc:price> 25 cm x 13 cm x 25 cm </dc:price>
+        <dc:review> 4.9 </dc:review>
+	    <dc:identifier> tas12.php </dc:identifier>
+    </rdf:Description> 
+	
+	<rdf:Description rdf:about = "https://www.zalora.co.id/phillipe-jourdan-zora-sling-bags-black-2537074.html">
+        <dc:product> Zora Sling Bags </dc:product>
+        <dc:img>  https://dynamic.zacdn.com/l2CWYRjEEQxEWOzwHBU2OQcvCSE=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/phillipe-jourdan-9106-4707352-2.jpg </dc:img>
+        <dc:hasMerk> Phillipe Jourdan </dc:hasMerk>
+        <dc:hasSize> 23cm x 8cm x 19cm </dc:hasSize>
+        <dc:ket> Sling bag bergaya chic dengan aksen metal logo, Warna hitam, Material nilon, Kompartemen utama dengan kancing magnet, 1 kantong dalam dengan resleting, Adjustable dan detachable strap, Panjang x Lebar x Tinggi: 23cm x 8cm x 19cm </dc:ket>
+        <dc:hasColor> Black </dc:hasColor>
+        <dc:price> Rp 269.000 </dc:price>
+        <dc:review> 5.0 </dc:review>
+	    <dc:identifier> tas13.php </dc:identifier>
+    </rdf:Description> 
+
+    <rdf:Description rdf:about = "https://www.zalora.co.id/samsonite-lipault-lady-plume-tote-bag-s-fl-light-plum-purple-2293114.html">
+        <dc:product> Lipault Lady Plume Tote Bag S FL - Light Plum </dc:product>
+        <dc:img> https://dynamic.zacdn.com/m73VvPXGHHbsedC_ATwfD8mnBqg=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/samsonite-0404-4113922-2.jpg </dc:img>
+        <dc:hasMerk> Samsonite </dc:hasMerk>
+        <dc:hasSize> (28 x 14 x 24) cm </dc:hasSize>
+        <dc:ket> Material90% nylon + 10% leather, Dimension(28 x 14 x 24) cm, Weight0.278 kg, One main compartmen, One zipped pocket, Perfect for daily use, Can be easily fold and stored in your luggage, Large capacity, Very functional with the smart sleeve </dc:ket>
+        <dc:hasColor> Light Plum </dc:hasColor>
+        <dc:price> Rp 1.290.000 </dc:price>
+        <dc:review> 4.8 </dc:review>
+	    <dc:identifier> tas14.php </dc:identifier>
+    </rdf:Description> 
+
+    <rdf:Description rdf:about = "https://www.zalora.co.id/en-ji-by-palomino-halmi-sling-bags-multi-2894886.html">
+        <dc:product> HALMI Sling Bags </dc:product>
+        <dc:img> https://dynamic.zacdn.com/NbjRAZIJyjRIOJYVD7qi1kDOzic=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/en-ji-by-palomino-7102-6884982-2.jpg </dc:img>
+        <dc:hasMerk> EN-JI by Palomino </dc:hasMerk> 
+        <dc:hasSize> 20cm x 8cm x 10cm </dc:hasSize>
+        <dc:ket> Sling bag desain klasik dengan kesan feminine elegant, Warna lemon (kuning), Material PU leather, Top flap dengan kancing magnet, 1 kompartemen dengan resleting, Non adjustable dan detachable strap </dc:ket>
+        <dc:hasColor> Lemon </dc:hasColor>
+        <dc:price> Rp 332.150 </dc:price>
+        <dc:review> 4.9 </dc:review>
+	    <dc:identifier> tas15.php </dc:identifier>
+    </rdf:Description> 
+
+    <rdf:Description rdf:about = "https://dynamic.zacdn.com/GLq9Yka8Zd-tUIEVg1UzHiv3hUs=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/phillipe-jourdan-9753-1728122-2.jpg">
+        <dc:product> Aurora Sling Bags </dc:product>
+        <dc:img> https://dynamic.zacdn.com/GLq9Yka8Zd-tUIEVg1UzHiv3hUs=/fit-in/236x345/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/phillipe-jourdan-9753-1728122-2.jpg </dc:img>
+        <dc:hasMerk> Phillipe Jourdan </dc:hasMerk>
+        <dc:hasSize> 10 cm x 21 cm x 26 cm </dc:hasSize>
+        <dc:ket> Sling bag bergaya kasual dalam nuansa monokrom, Warna biru, Material kanvas, 1 kompartemen utama dengan resleting, 1 kantong depan dengan resleting, 2 kantong samping dengan resleting, 1 kantong belakang dengan resleting, Adjustable strap, Panjang x Lebar x Tinggi: 21.5cm x 11cm x 20cm </dc:ket>
+        <dc:hasColor> Blue </dc:hasColor>
+        <dc:price> Rp 389.700 </dc:price>
+        <dc:review> 5.0 </dc:review>
+	    <dc:identifier> tas16.php </dc:identifier>
+    </rdf:Description> 
+</rdf:RDF>
